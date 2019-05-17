@@ -32,13 +32,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+    Document Object Model. It's a representation of the HTML elements of a webpage
+
 2. What is an event?
+
+    An event is when the user does something like clicking, key presses, scrolling, ect. 
 
 3. What is an event listener?
 
+    An event listener listens for an event to happen, and then executes the code inside the event listener.
+
 4. Why would we convert a NodeList into an Array?
 
+    In order to use array methods on it like .map, .reduce, .filter
+
 5. What is a component?
+
+    A componet is something that is built in JS, HTML and CSS to do one thing and do it well. It can be reused to build as many of that kind of component as needed.
 
 ### Git Set up
 
